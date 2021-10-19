@@ -29,7 +29,6 @@ show_excerpts: false
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://foxsys.org" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  rbradley0
 
 minima:
   skin: solarized-dark
