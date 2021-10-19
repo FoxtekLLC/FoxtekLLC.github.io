@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
 Hello, my name is Ryan.\
 I'm a full-time college student studying for an Associate of Science degree in Computer Information Technology.\
 I am an amateur software engineer, computer systems administrator, and network engineer. I'm constantly learning new systems and solutions that can and are deployed in both home and business environments.
@@ -93,8 +91,7 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 | Hosting | Web Servers |
 | :-: | :-: |
 | ![Cloudflare](https://img.shields.io/badge/Cloudflare-FFA500?style=for-the-badge&logo=cloudflare&logoColor=white) | ![Caddy](https://img.shields.io/badge/caddy-009639?style=for-the-badge&logo=caddy&logoColor=white) |
-| [![DigitalOcean Referral Badge](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/?refcode=ae0a1f51dd8d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) | ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
-| ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white) | - |
+| ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 
 ### Miscellaneous
 
