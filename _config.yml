@@ -16,7 +16,7 @@
 title: Fox Technologies LLC
 email: support@foxtek.net
 description: > # this means to ignore newlines until "baseurl:"
-  Simple Consumer and Small-Medium Business services serving the Duval County, FL and Clay County, FL areas.
+  IT Services for Small-Medium Businesses and Residential serving the Duval County, FL and Clay County, FL areas.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://foxtek.net" # the base hostname & protocol for your site, e.g. http://example.com
 
