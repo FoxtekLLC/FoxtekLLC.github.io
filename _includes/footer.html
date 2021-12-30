@@ -3,22 +3,21 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4">
-        <h3><i class="fa fa-map-marker"></i> Contact:</h3>
+        <h3><i class="fa fa-map-marker"></i>Contact:</h3>
         <p class="footer-contact">
           {{ site.company_name }} <br>
-          Phone: {{ site.telephone_number }} <br>
+          Phone: <a href="tel:{{ site.tele_number }}">{{ site.tele_number }} <br>
           <!-- Fax: {{ site.fax_number }} <br> -->
           Email: <a href="mailto:{{ site.company_email }}">{{ site.company_email }}</a><br>
         </p>
       </div>
       <div class="col-md-4">
-        <h3><i class="fa fa-external-link"></i> Links</h3>
+        <h3><i class="fa fa-external-link"></i>Links</h3>
         <!-- <p><a href="/about"> About Us</a></p>
-        <p><a href="/services"> What We Do</a></p>
         <p><a href="/contact"> Contact Us</a></p>
         <p><a href="/blog"> Blog</a></p> -->
-        <p><a href="/staff"> Meet the Team</a></p>
-        <p><a href="/privacy-policy"> Privacy Policy</a></p>
+        <p><a href="/staff">Meet the Team</a></p>
+        <p><a href="/privacy-policy">Privacy Policy</a></p>
       </div>
       <!-- <div class="col-md-4">
         <h3><i class="fa fa-heart"></i> Socialize</h3>
@@ -52,6 +51,8 @@
   </div>
 
   <div class="copyright text center">
-    <p>&copy; Copyright {{ site.time | date: '%Y' }}, <a href="{{ site.url }}">{{ site.company_name }}</a>. <br>Theme ported by <a href="https://melvinchng.github.io/" target="_blank">Melvin Ch'ng</a></p>
+    <p>
+      &copy; Copyright {{ site.time | date: '%Y' }}, <a href="{{ site.url }}">{{ site.company_name }}</a><br>
+    </p>
   </div>
 </footer>
