@@ -1,0 +1,5 @@
+[clog]
+repository = "https://github.com/FoxTechnologiesLLC/FoxTechnologiesLLC.github.io"
+subtitle = "Foxtek Changelog"
+link-style = "github"
+changelog = "CHANGELOG.html"
