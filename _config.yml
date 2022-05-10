@@ -20,23 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://foxtek.net" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Company Information
-company_name: Fox Technologies LLC
-address_line: 1 Jacksonville, FL 32226
-telephone_number: +1.904.474.2250
-company_email: support@foxtek.net
-google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d220364.9210805937!2d-81.82319028982296!3d30.34521164087769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e5b716f1ceafeb%3A0xc4cd7d3896fcc7e2!2sJacksonville%2C%20FL!5e0!3m2!1sen!2sus!4v1640731759271!5m2!1sen!2sus
-
-# Social Link
-# facebook_link: http://www.facebook.com
-# twitter_link: http://www.twitter.com
-# linkedin_link: http://www.linkedin.com
-# googleplus_link: http://plus.google.com
-
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
