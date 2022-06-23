@@ -1,0 +1,29 @@
+---
+layout: none
+permalink: .well-known/security.txt
+---
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:web@foxtek.net
+Expires: 2024-01-01T05:00:00.000Z
+Encryption: openpgp4fpr:0FC65554527A46D91F81C137C2757EE1D5B29F70
+Preferred-Languages: en
+Canonical: https://foxtek.net/.well-known/security.txt
+Policy: https://foxtek.net/policies/security
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEFMa056RCXc0NvrSQ4PBkVUQhXn0FAmK0kwMACgkQ4PBkVUQh
+Xn3l3A/+NBdOcuCtDNhd1VCdxqNfG40Lq7dvDhLLIqfaWARtjCLkVNgQdv8bzsGW
+YmWnM4r5PY2iU1I/OvtElZWhAOXf8uYjcZUe4MdXRNEwU1R6yZCn6X8y4CU6u74o
+KKBlxjqumzhgNC7yPqB11iN7EcfID8bC7qZk4vhPphg57rJS7Vw6rxyJK9qOXu3a
+6Ti7CQPMB6XK+hYQUrUtykGtuOPRzKfOx8rOWQh+vQw6kkvvk8N134ttwExs8bq+
+rzb38sk31eC/jC/FAWPpKFzdldnTuJ4fdUpzzhustCJ4V8QHQJbdHEEeGzrUYKoE
+ESHCP/lRh75Ke4S4dA5UkcZQuCn5CMkYD8R2uMJ8GZzxrI7pGeTvKVtE7mUNVjwk
+qWTR0r/rj2dsDs2WPbHatzWe1hlEOC6YVz85XtYOtLksOvkMunaxuJbf1OMEtp0Q
+ZYXlmmJDzMgy9g9po4q+sEC87sL3tDV84IV3VeLT35Y6i26axtbB2LzegBoUAX1W
+0krcUBLmAJZDBVAu3GK0gFEDRwuV4ZmDIHXwgd9EGAoTjpHKi1VoFw+0wKnBNNVK
+CIXtAKyG4Dht4kQ2utOgGUsKNSC8dGoEhkjsijc/3q3jOaXW5Vw7NXzDQZL+epRZ
+5J3cIFLyKB+JysDOw6DuyEyihF76ZVfzBnHgv6pOB1SCtM0V8PE=
+=Um/5
+-----END PGP SIGNATURE-----
